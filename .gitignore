@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+images/
+logs/
+logs/app.log
+test.py
+config.ini
+env/
+redis/
+test/
+settings.json
+favicon_io.zip
+worker.bat
+*.xlsx
